@@ -24,31 +24,34 @@
     <img src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" width="12.5%">
     <img src="https://images.credly.com/images/58b06a5f-aee6-4a11-ac53-da36d5f70e8e/image.png" width="12.5%">
     <img src="https://images.credly.com/size/340x340/images/de878f56-515d-40e5-b102-e667192c6f08/Certification_Designer_Advanced.png" width="12.5%">
-    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="12.5%">
-    <img src="https://templates.images.credential.net/16377649693790199922879811460604.png" width="12.5%">
-    <img src="https://github.com/user-attachments/assets/ba531a69-0983-472a-afe5-4ec956cf5de6" width="12.5%">
 <div>
 
 ---
 
 ### Projects
 
-| Name                  | Description                                                                 | Tools                                   | Skills                          |
-|-----------------------|-----------------------------------------------------------------------------|-----------------------------------------|---------------------------------|
-| [F1 Visualisation](www.google.com)      | Built a dashboard analysing Formula 1 race performance. | Tableau, Tableau Prep, Excel | Data Visualization, Analytics, Dashboard Design |
-| [API Pipeline](www.google.com)          | Developed an automated pipeline ETL data from REST APIs. | Alteryx, Python, REST APIs   | ETL Development, Automation, Data Integration |
-| [Bookstore WebScraping](www.google.com) | Created a web scraper to collect data from online bookstores. | Python, BeautifulSoup | Web Scraping, Data Cleaning, Scripting |
-| [SQL Staging](www.google.com)           | Designed and maintained staging tables to prepare raw data for analytics. | SQL Server, Snowflake, dbt | Data Modeling, Data Warehousing |
+| Name | Description | Tools | Skills |
+| :--- | :--- | :--- | :--- |
+| [Preppin' Data Challenges](https://github.com/vaish-shankar1/Summer-of-SQL) | Analysing banking, customer, and financial transaction datasets across multiple weekly challenges. | SQL, Snowflake | Data Cleaning, Data Transformation, Financial Analytics |
+| [Lego Portfolio Project](https://github.com/vaish-shankar1/Summer-of-SQL) | Data modeling and inventory/product performance analysis built on relational Lego datasets. | SQL, Snowflake | Data Modeling, Relational Analytics, Exploratory Data Analysis |
+| [SQL Murder Mystery](https://github.com/vaish-shankar1/Summer-of-SQL) | Investigative database forensics using complex joins, CTEs, and witness transcript analysis to solve a crime. | SQL | Query Optimization, Pattern Matching, Logical Investigation |
+| [Summer of SQL Challenges](https://github.com/vaish-shankar1/Summer-of-SQL) | Comprehensive collection of real-world business case studies (Foodie-Fi, Data Bank, Preppin' Data). | SQL, Snowflake | Advanced SQL, Subqueries & CTEs, Window Functions, Subscription Analytics |
 
 ---
 
 ### Vizzes
 
 <div align="center">
-<a href="https://public.tableau.com/views/ArtistJourneyDiscoverytoTop100/SpotifyDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-<img src="https://public.tableau.com/views/ArtistJourneyDiscoverytoTop100/SpotifyDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" width="40%"> 
+  <!-- Viz 1: Artist Journey -->
+  <a href="https://public.tableau.com/views/ArtistJourneyDiscoverytoTop100/SpotifyDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+    <img src="https://public.tableau.com/static/images/Ar/ArtistJourneyDiscoverytoTop100/SpotifyDashboard/1_rss.png" alt="Spotify Dashboard" width="45%" style="margin-right: 10px;">
+  </a>
 
-<div>
+  <!-- Viz 2: NBA Regular Season Ranking -->
+  <a href="https://public.tableau.com/views/201819NBARegularSeasonRanking_17788637302050/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+    <img src="https://public.tableau.com/static/images/20/201819NBARegularSeasonRanking_17788637302050/Dashboard1/1_rss.png" alt="NBA Regular Season Ranking Dashboard" width="45%">
+  </a>
+</div>
 
 ---
 
