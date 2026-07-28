@@ -58,6 +58,10 @@
 - 📄 [How Do Schemas Bring Order to Data?](https://www.thedataschool.co.uk/vaishnavi-shankar/how-do-schemas-bring-order-to-data/)
 - 📄 [Custom Number Formatting in Power BI](https://www.thedataschool.co.uk/vaishnavi-shankar/custom-number-formatting-in-power-bi/)
 - 📄 [Tableau Server vs. Cloud: Making the Right Call](https://www.thedataschool.co.uk/vaishnavi-shankar/tableau-server-or-cloud-which-should-you-pick/)
+- 📄 [Mastering the Bump Chart in Power BI Using RANKX](https://www.thedataschool.co.uk/vaishnavi-shankar/mastering-the-bump-chart-in-power-bi-using-rankx/)
+- 📄 [Finding NBA Conference Standings by Region: Lessons from Alteryx and Tableau Prep](https://www.thedataschool.co.uk/vaishnavi-shankar/finding-nba-conference-standings-by-region-lessons-from-alteryx-and-tableau-prep/)
+- 📄 [Making Sense of Similar Functions in Tableau Desktop](https://www.thedataschool.co.uk/vaishnavi-shankar/understanding-similar-but-slightly-different-functions/)
+- 📄 [Custom Number Formatting in Power BI](https://www.thedataschool.co.uk/vaishnavi-shankar/custom-number-formatting-in-power-bi/)
 
 ---
 
