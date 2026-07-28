@@ -1,30 +1,30 @@
-### Hi, I'm Vaish and Welcome to y Github 👋
-> Helping people make sense of their data 
-- **Data Analytics Consultant** at [The information Lab](https://www.theinformationlab.co.uk/)
+### Hi, I'm Vaish and Welcome to my GitHub 👋
+
+- **Data Analytics Consultant** at [The Information Lab](https://www.theinformationlab.co.uk/)
 - Experienced in building interactive dashboards and automated reports
-- Skills: Data Analysis, Data Visualisation, Data Transformation, Tableau, PBI, Alteryx, SQL, Python
+- **Skills:** Data Analysis, Data Visualisation, Data Transformation, Tableau, Power BI, Alteryx, SQL, Python
 - BSc(Hons) in *Architecture* from The University of Bath
 
 <br>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/snowflake-28A0E5?style=for-the-badge&logo=snowflake&logoColor=white">
-  <img src="https://img.shields.io/badge/Alteryx-00A3CC?style=for-the-badge&logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/power_automate-0067B8?style=for-the-badge&logo=microsoft&logoColor=black">
-  <img src="https://img.shields.io/badge/Tableau-0052CC?style=for-the-badge&logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54">
-<div>
+  <img src="https://img.shields.io/badge/Snowflake-28A0E5?style=for-the-badge&logo=snowflake&logoColor=white">
+  <img src="https://img.shields.io/badge/Alteryx-00A3CC?style=for-the-badge&logo=alteryx&logoColor=white">
+  <img src="https://img.shields.io/badge/Power_Automate-0067B8?style=for-the-badge&logo=powerautomate&logoColor=white">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</div>
 
 ---
 
-### Certifications 
+### Certifications
 
 <div align="left">
     <img src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" width="12.5%">
     <img src="https://images.credly.com/images/58b06a5f-aee6-4a11-ac53-da36d5f70e8e/image.png" width="12.5%">
     <img src="https://images.credly.com/size/340x340/images/de878f56-515d-40e5-b102-e667192c6f08/Certification_Designer_Advanced.png" width="12.5%">
-<div>
+</div>
 
 ---
 
@@ -44,12 +44,12 @@
 <div align="center">
   <!-- Viz 1: Artist Journey -->
   <a href="https://public.tableau.com/views/ArtistJourneyDiscoverytoTop100/SpotifyDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-    <img src="https://public.tableau.com/static/images/Ar/ArtistJourneyDiscoverytoTop100/SpotifyDashboard/1_rss.png" alt="Spotify Dashboard" width="45%" style="margin-right: 10px;">
+    <img src="https://public.tableau.com/static/images/Ar/ArtistJourneyDiscoverytoTop100/SpotifyDashboard/1_rss.png" alt="Spotify Dashboard" width="45%" height="320px" style="object-fit: cover; object-position: top; vertical-align: middle; margin-right: 10px;">
   </a>
 
-  <!-- Viz 2: NBA Regular Season Ranking -->
+  <!-- Viz 2: NBA Regular Season Ranking (Top-cropped to match height) -->
   <a href="https://public.tableau.com/views/201819NBARegularSeasonRanking_17788637302050/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-    <img src="https://public.tableau.com/static/images/20/201819NBARegularSeasonRanking_17788637302050/Dashboard1/1_rss.png" alt="NBA Regular Season Ranking Dashboard" width="45%">
+    <img src="https://public.tableau.com/static/images/20/201819NBARegularSeasonRanking_17788637302050/Dashboard1/1_rss.png" alt="NBA Regular Season Ranking Dashboard" width="45%" height="320px" style="object-fit: cover; object-position: top; vertical-align: middle;">
   </a>
 </div>
 
@@ -57,4 +57,11 @@
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/vaishnavi-shankar-analyst/?isSelfProfile=false) [![Email](https://img.shields.io/badge/Email-name@gmail.com-red?logo=gmail)](mailto:vaishnavishankar@theinformationlab.co.uk)
+<div align="left">
+  <a href="https://www.linkedin.com/in/vaishnavi-shankar-analyst/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:vaishnavishankar@theinformationlab.co.uk">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
