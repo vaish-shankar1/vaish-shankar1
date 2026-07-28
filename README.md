@@ -45,17 +45,8 @@
 
 <div align="center">
   <!-- Viz 1: Artist Journey -->
-  <a href="https://public.tableau.com/views/ArtistJourneyDiscoverytoTop100/SpotifyDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" style="display: inline-block; vertical-align: top; width: 45%; margin-right: 10px;">
-    <div style="height: 300px; overflow: hidden;">
-      <img src="https://public.tableau.com/static/images/Ar/ArtistJourneyDiscoverytoTop100/SpotifyDashboard/1_rss.png" alt="Spotify Dashboard" width="100%">
-    </div>
-  </a>
-
-  <!-- Viz 2: NBA Regular Season Ranking (Cropped from bottom) -->
-  <a href="https://public.tableau.com/views/201819NBARegularSeasonRanking_17788637302050/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" style="display: inline-block; vertical-align: top; width: 45%;">
-    <div style="height: 300px; overflow: hidden;">
-      <img src="https://public.tableau.com/static/images/20/201819NBARegularSeasonRanking_17788637302050/Dashboard1/1_rss.png" alt="NBA Regular Season Ranking Dashboard" width="100%">
-    </div>
+  <a href="https://public.tableau.com/views/ArtistJourneyDiscoverytoTop100/SpotifyDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+    <img src="https://public.tableau.com/static/images/Ar/ArtistJourneyDiscoverytoTop100/SpotifyDashboard/1_rss.png" alt="Spotify Dashboard" width="45%" height="320px" style="object-fit: cover; object-position: top; margin-right: 10px;">
   </a>
 </div>
 
