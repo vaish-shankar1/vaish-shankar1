@@ -52,6 +52,15 @@
 
 ---
 
+### Read my Blogs
+
+- 📄 [Building a Spotify Streaming Timeline in Alteryx with JSON & RegEx](https://www.thedataschool.co.uk/vaishnavi-shankar/)
+- 📄 [How Do Schemas Bring Order to Data?](https://www.thedataschool.co.uk/vaishnavi-shankar/how-do-schemas-bring-order-to-data/)
+- 📄 [Custom Number Formatting in Power BI](https://www.thedataschool.co.uk/vaishnavi-shankar/custom-number-formatting-in-power-bi/)
+- 📄 [Tableau Server vs. Cloud: Making the Right Call](https://www.thedataschool.co.uk/vaishnavi-shankar/tableau-server-or-cloud-which-should-you-pick/)
+
+---
+
 ### Connect with me
 
 <div align="left">
